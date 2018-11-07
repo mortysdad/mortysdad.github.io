@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Inos"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Rahul Soni"
+description              : "Personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rahul Soni"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
@@ -124,7 +124,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/notinosrahul/"
 
 # Site Footer
 footer:
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: "https://github.com/inosrahul"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: "https://www.instagram.com/notinosrahul/"
 
 
 # Reading Files
